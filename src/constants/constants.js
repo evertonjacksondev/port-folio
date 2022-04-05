@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'MATETE',
     description: "MATETE est un projet réalisé en groupe de 3 sous SYMFONY. L'application permet de voir et poster des annonces de ventes de produit locaux directement sur une carte",
-      image: '../images/apercusite2.png',
+      image: 'images/apercusite2.png',
     source: 'https://google.com',
     id: 0,
   },
