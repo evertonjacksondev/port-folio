@@ -2,15 +2,14 @@ export const projects = [
   {
     title: 'MATETE',
     description: "MATETE est un projet réalisé en groupe de 3 sous SYMFONY. L'application permet de voir et poster des annonces de ventes de produit locaux directement sur une carte",
-      image: 'images/apercusite2.png',
+      image: 'https://tommycassu.github.io/PortFolioReact/images/apercusite2.png',
     source: 'https://google.com',
     id: 0,
   },
   {
     title: 'Calendrier de gardes',
     description:"C'est un calendrier intéractif afin que les parents d'une écoles puissent choisir la date de leur choix afin de garder les enfants après les cours",
-    image: '/images/projet2.png',
-    
+    image: 'https://tommycassu.github.io/PortFolioReact/images/1.png',
     source: 'https://google.com',
     id: 1,
   },
